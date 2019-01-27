@@ -15,6 +15,6 @@ See this graphic
 ![logo](Graphics\logo.jpg)    
   
 
-## Enable Access to ownCloud ##  
+## Enable Access to ownCloud on Mobile ##  
 
-More info
+More info  ![mobile](Graphics\mobile.png)   
