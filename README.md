@@ -2,6 +2,8 @@
 
 Updates motr  owncloue2
 
+MORE
+
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collabaration platform.
 
 You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). However if you want to get it going quickly, see the topics in this Quick Start Guide.
