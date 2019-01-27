@@ -17,11 +17,11 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 
 - install and configure an Owncloud server
 - enable users to connect to the Owncloud server   
-- add a user account
-- 
+- add a user account  
+
 <h2 id="install">Install and Configure</h2>
 
-To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment.  Take advantage a complete image in one package.  ![documentation](Graphics\docker.JPG)
+To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment.  Take advantage a complete image in one package.  ![documentation](Graphics\docker-image.JPG)
 
 Here is an example 
 
