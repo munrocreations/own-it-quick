@@ -1,6 +1,6 @@
 # How to Manage and Use **ownCloud** #
 
-PUBLISH
+lll
 
 Updates motr  owncloue2
 
