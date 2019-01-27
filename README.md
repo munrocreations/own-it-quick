@@ -2,9 +2,9 @@
 
 ## Enable Access to ownCloud ##
 
-![Alt text](C:\Users\19788\Documents\GitHub\ownit-quick\Graphics\logo.jpg)
+![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\logo.jpg)
 
-![Alt text](C:\Users\19788\Documents\GitHub\ownit-quick\Graphics\mobile.png)
+![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\mobile.png)
 
 ![ownCloud logo](Graphics/mobile.png)  
  
