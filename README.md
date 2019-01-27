@@ -2,9 +2,15 @@
 
 ## Enable Access to ownCloud ##
 
-See [admin](admin)  
+## no relative path  ##
 
-![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\logo.jpg "Optional title")
+![Alt text](\Graphics\mobile.png "Mobile access")   
+
+
+See [admin](admin)  
+See this
+
+![Alt text](\Graphics\mobile.png)  
 
 # admin #
 
