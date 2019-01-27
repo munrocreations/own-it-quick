@@ -6,7 +6,7 @@ With ownCloud, you can access your data where you are and know that is on a high
 To streamline your use of this product, the ***Quick Start Guide***  answers questions for two audiences:  
 
 - **Administrators** -- See the <a href="#admin">Administrator Setup</a> section so you can make **ownCloud** available to users.  
-- **Users** -- See the <a href="#user">ownCloud User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
+- **Users** -- See the <a href="#user">User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
 > **Note**: If you are reading this guide on a smart phone, you may choose to turn the phone horizontally for best viewing.
 
 ## Find More Help ##
@@ -16,16 +16,29 @@ You can find full details on working with **ownCloud** in the [OwnCloud document
 <h2 id="admin">Administrator Setup</h2>
 
 To make **ownCloud** available to users, you perform these procedures:
-- <a href="#install">Install and Configure</a> an ownCloud server.  
+- <a href="#install">Install</a> an ownCloud server.  
 - <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
 - <a href="#account">Add User Accounts.</a>.  
 
-<h3 id="install">Install and Configure an ownCloud Server</h3>
+<h3 id="install">Install an ownCloud Server</h3>
 
-To quickly installation and configure the ownCloud Server, consider installing the docker version. The docker version provides the fastest installation option. You may want to install it initiallyi in a test environment to see if it fits the needs of your organization.  
+If you are comfortable using docker, consider installing the docker version of the ownCloud Server. This version is the fastest installation option. You may want to install it in a test environment to verify that it fits your organizational needs.  
 
-Start by downloading the [ownCloud server image](https://hub.docker.com/r/owncloud/server/) to your local system.
+The docker image has a data volume in the host filesystem and separate MariaDB and Redis containers. This configuration allows for HTTP connections by exposing port 8080. It also provides persistent storage by mounting the data and MySQL data directories on the host.
+
+#### Install ownCloud Locally ####
+To begin the installation, first create a new project directory.
+
+Then download docker-compose.yml from the [ownCloud Docker GitHub repository](https://hub.docker.com/r/owncloud/server/) and store in your new directory.  
 ![docker](Graphics\docker-image.jpg)
+
+Next, create an ENV configuration file and assign values to the following settings.  
+![settings](Graphics\settings.jpg)
+
+
+Only a few settings are required, these are:
+
+
 
 Here is an example 
 
