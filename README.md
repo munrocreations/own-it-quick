@@ -1,4 +1,4 @@
-#  Administer and Use **ownCloud** (A Quick Start Guide) #
+#  Administer and Use **ownCloud**<br>(A Quick Start Guide) #
 
 With ownCloud, you can access your data where you are and know that is on a highly secure platform. This product runs on standard databases and web servers plus reliable enterprise operating systems such as Red Hat Enterprise Linux. Administering and using **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. 
 
@@ -7,7 +7,7 @@ To streamline your use of this product, the ***Quick Start Guide***  answers que
 
 - **Administrators** -- See the <a href="#admin">Administrator Setup</a> section so you can make **ownCloud** available to users.  
 - **Users** -- See the <a href="#user">User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
-> **Note**: If you are reading this guide on a smart phone, you may choose to turn the phone horizontally for best viewing.
+> **Note**: For optimal use of this guide on a smart phone, turn the phone horizontally (landscape mode).
 
 ## Find More Help ##
 You can find full details on working with **ownCloud** in the [OwnCloud documentation](https://owncloud.org/help/). Look for this documentation icon.  
@@ -18,7 +18,7 @@ You can find full details on working with **ownCloud** in the [OwnCloud document
 To make **ownCloud** available to users, you perform these procedures:
 - <a href="#install">Install</a> an ownCloud server.  
 - <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
-- <a href="#account">Add User Accounts.</a>.  
+- <a href="#account">Add User Accounts</a>.  
 
 <h3 id="install">Install an ownCloud Server</h3>
 
