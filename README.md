@@ -35,12 +35,8 @@ Then download docker-compose.yml from the [ownCloud Docker GitHub repository](ht
 Next, create an ENV configuration file and assign values to the following settings.  
 ![settings](Graphics\settings.jpg)
 
+After assigning these values can start the container at the Docker command-line. This sequence shows how to start the container using [Docker Compose](https://hub.docker.com/r/owncloud/server/).  If you prefer, you can use [plain docker](https://github.com/owncloud-docker/server#launch-with-plain-docker).
 
-Only a few settings are required, these are:
-
-
-
-Here is an example 
 
     # Create a new project directory
     mkdir owncloud-docker-server
