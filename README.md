@@ -58,7 +58,13 @@ After assigning these values can start the container at the Docker command-line.
     # Build and start the container
     docker-compose up -d
 
-For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.htm) in the ownCloud documentation.
+When the process completes, then check that all the containers have successfully started, by running docker-compose ps. If they are all working correctly, you should expect to see output similar to that below:
+
+
+
+In it, you can see that the database, ownCloud, and Redis containers are running, and that ownCloud is accessible via port 8080 on the host machine.
+
+For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
 Enable users to connect to the Owncloud server using the  server's IP address and port 8080
