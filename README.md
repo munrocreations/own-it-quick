@@ -1,6 +1,6 @@
-# A Quick Start to Administer and Use **ownCloud** #
+#  Administer and Use **ownCloud** (A Quick Start Guide) #
 
-Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. You can access your data where you are and know that is on a highly secure platform. This product runs on standard databases and web servers plus reliable enterprise operating systems such as Red Hat Enterprise Linux. 
+With ownCloud, you can access your data where you are and know that is on a highly secure platform. This product runs on standard databases and web servers plus reliable enterprise operating systems such as Red Hat Enterprise Linux. Administering and using **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. 
 
 ## Get Started ##  
 To streamline your use of this product, the ***Quick Start Guide***  answers questions for two audiences:  
@@ -15,14 +15,14 @@ You can find full details on working with **ownCloud** in the [OwnCloud document
 
 <h2 id="admin">Administrator Setup</h2>
 
-For the initial setup of ownCloud, you perform three important procedures
+To make **ownCloud** available to users, you perform these procedures:
 - <a href="#install">Install and Configure</a> an ownCloud server.  
 - <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
-- <a href="#account">add a user account</a>.  
+- <a href="#account">Add a user account.</a>.  
 
 <h3 id="install">Install and Configure an ownCloud Server</h3>
 
-To quickly installation and configure the ownCloud Server, consider installing the docker version. The docker version provide the chance to experiment in a test environment to if it fits the needs of your organization.  
+To quickly installation and configure the ownCloud Server, consider installing the docker version. The docker version provides the fastest installation option. You may want to install it initiallyi in a test environment to see if it fits the needs of your organization.  
  For information about docker  
 
 Start by downloading the [ownCloud server image](https://hub.docker.com/r/owncloud/server/) to your local system.
