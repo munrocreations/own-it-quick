@@ -1,16 +1,16 @@
-# How to Manage and Use **ownCloud** #
+# A Quick Start to Administer and Use **ownCloud** #
 
-Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. You can access your data where you are and know that is on a highly secure platform. This product runs on standard databases, web servers, and enterprise operating systems such as Red Hat Enterprise Linux. 
+Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. You can access your data where you are and know that is on a highly secure platform. This product runs on standard databases and web servers plus reliable enterprise operating systems such as Red Hat Enterprise Linux. 
 
 ## Get Started ##  
-To get going quickly, see the topics in this ***Quick Start Guide***.  This guide answers these questions for two audiences:  
+To streamline your use of this product, the ***Quick Start Guide***  answers questions for two audiences:  
 
-- For administrators, see the <a href="#admin">Administrator Setup</a> section so you can make **ownCloud** available to users.  
-- For users, see the <a href="#user">ownCloud User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
+- **Administrator** -- See the <a href="#admin">Administrator Setup</a> section so you can make **ownCloud** available to users.  
+- **Users** -- See the <a href="#user">ownCloud User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
 > **Note**: If you are reading this guide on a smart phone, you may choose to turn the phone horizontally for best viewing.
 
 ## Find More Help ##
-You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon.  
+You can find full details on working with **ownCloud** in the [OwnCloud documentation](https://owncloud.org/help/). Look for this documentation icon.  
 ![documentation](Graphics\docs.JPG)
 
 <h2 id="admin">Administrator Setup</h2>
