@@ -1,6 +1,6 @@
 # How to Manage and Use **ownCloud** #
 
-Updates motr
+Updates motr  owncloue2
 
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collabaration platform.
 
