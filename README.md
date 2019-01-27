@@ -5,7 +5,7 @@ With ownCloud, you can access your data where you are and know that is on a high
 ## Get Started ##  
 To streamline your use of this product, the ***Quick Start Guide***  answers questions for two audiences:  
 
-- **Administrator** -- See the <a href="#admin">Administrator Setup</a> section so you can make **ownCloud** available to users.  
+- **Administrators** -- See the <a href="#admin">Administrator Setup</a> section so you can make **ownCloud** available to users.  
 - **Users** -- See the <a href="#user">ownCloud User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
 > **Note**: If you are reading this guide on a smart phone, you may choose to turn the phone horizontally for best viewing.
 
@@ -23,7 +23,6 @@ To make **ownCloud** available to users, you perform these procedures:
 <h3 id="install">Install and Configure an ownCloud Server</h3>
 
 To quickly installation and configure the ownCloud Server, consider installing the docker version. The docker version provides the fastest installation option. You may want to install it initiallyi in a test environment to see if it fits the needs of your organization.  
- For information about docker  
 
 Start by downloading the [ownCloud server image](https://hub.docker.com/r/owncloud/server/) to your local system.
 ![docker](Graphics\docker-image.jpg)
