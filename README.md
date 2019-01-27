@@ -7,7 +7,9 @@ Administering and use **ownCloud** may seem complex at first, but over 25 millio
 You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon.  
 ![docs](Graphics\docs.JPG)
 
-However, get it going quickly, see the topics in this Quick Start Guide.  For administrators this guide answers these questions
+However, to get going quickly, see the topics in this Quick Start Guide. If you are reading this guide on a smart phone, you may prefer to turn the phone to a horizontal position.
+
+For administrators this guide answers these questions
 
 - install and configure an Owncloud server
 - how do I enable users to connect to the Owncloud server   
