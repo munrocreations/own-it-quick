@@ -16,12 +16,37 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 <h2 id="admin">Initial Setup</h2>
 
 - install and configure an Owncloud server
-- how do I enable users to connect to the Owncloud server   
-- how do I add a user account
+- enable users to connect to the Owncloud server   
+- add a user account
 - 
-<h2 id="install">Installation and Configuration</h2>
+<h2 id="install">Install and Configure</h2>
 
--
+To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment
+A very simple method so you can experiment in a test environment.  Take advantage a complete image in one package.
+
+Here is an example 
+
+    # Create a new project directory
+    mkdir owncloud-docker-server
+    
+    cd owncloud-docker-server
+    
+    # Copy docker-compose.yml from the GitHub repository
+    wget https://raw.githubusercontent.com/owncloud-docker/server/master/docker-compose.yml
+    
+    # Create the environment configuration file
+    cat << EOF > .env
+    OWNCLOUD_VERSION=10.0
+    OWNCLOUD_DOMAIN=localhost
+    ADMIN_USERNAME=admin
+    ADMIN_PASSWORD=admin
+    HTTP_PORT=8080
+    EOF
+    
+    # Build and start the container
+    docker-compose up -d
+
+
 <h2 id="user">ownCloud Access</h2>  
 More info  ![mobile](Graphics\mobile-device.JPG)  
 To gain access
