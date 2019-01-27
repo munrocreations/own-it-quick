@@ -1,4 +1,4 @@
-# How to Manage and Use **ownCloud** #
+# Admin #
 
 ## Enable Access to ownCloud ##
 
