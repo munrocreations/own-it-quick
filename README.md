@@ -98,13 +98,23 @@ Therefore, users supply the web URL in this format: https://&lt;host-name&rt;:80
 
 <h3 id="desktop">Desktop</h3>
 
-You can download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page. Clients exist for Linux, macOS, and Microsoft Windows.
+You can download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page. The system Requirements are:  
 
-<h4 id="Mac OS X and Microsoft Windows</h4>
+- Windows 7+
+- Mac OS X 10.7+ (64-bit only)
+- CentOS 6 & 7 (64-bit only)
+- Debian 8.0 & 9.0
+- Fedora 25 & 26 & 27
+- Ubuntu 16.04 & 17.04 & 17.10
+- openSUSE Leap 42.2 & 42.3
+
+Clients exist for Mac OS X, Microsoft Windows, and Linux.
+
+<h4>Mac OS X and Microsoft Windows</h4>
 
 On Mac OS X and Microsoft Windows, download the program and double-click it to launch the installation, and follow the installation wizard. After it is installed and configured, the sync client automatically stays updated.
 
-<h4 id="Mac OS X and Windows</h4>
+<h4>Linux</h4>
 Linux users must follow the instructions on the download page to add the appropriate repository for their Linux distribution, install the signing key, and then use their package managers to install the desktop sync client. Linux users should also update their sync clients using the package manager. The client displays a notification when an update is available.
 
 Linux users must also have a password manager enabled, such as GNOME Keyring or KWallet, so that the sync client can login automatically.
@@ -113,6 +123,12 @@ You will also find links to source code archives and older versions on the downl
 
 For more detail, see [this topic](https://doc.owncloud.org/desktop/2.5/introduction.html) in the ownCloud documentation.
 <h3 id="mobile">Mobile</h3>
+
+Access, sync and upload your data on the go. Mobile apps are available in both the Apple App Store and the Google Play Store.
+
+- Latest releases (Sep 6, 2018):
+- iOS: Version 3.8.0
+- Android: Version 2.9.3
 ![mobile](Graphics\mobile-device.JPG)  
 
 For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the ownCloud documentation.
