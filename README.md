@@ -1,6 +1,6 @@
 # How to Manage and Use **ownCloud** #
 
-see <a href="#mobile">Mobile</a></li>
+see <a href="#mobile">Mobile</a>
 
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon. 
 
@@ -23,9 +23,7 @@ See this graphic
 
 
 
-<h3 id="mobile">Mobile</h3>
+<h3 id="mobile">Enable Access to ownCloud on Mobile</h3>
 
-
-## Enable Access to ownCloud on Mobile ##  
 
 More info  ![mobile](Graphics\mobile-device.JPG)   
