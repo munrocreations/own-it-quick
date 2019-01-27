@@ -17,7 +17,7 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 1. step 1  
 2. step 2 use &lt;variable&gt;  
 
-See [this topic](/heading1/)
+See [this topic](/admin/)
 
 See this
 
