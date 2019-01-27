@@ -128,7 +128,7 @@ Access, sync and upload your data on the go. Mobile apps are available in both t
 
 - Latest releases (Sep 6, 2018):
 - iOS: Version 3.8.0
-- Android: Version 2.9.3
+- Android: Version 2.9.3  
 ![mobile](Graphics\mobile-device.JPG)  
 
 For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the ownCloud documentation.
