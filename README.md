@@ -7,6 +7,9 @@
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform.
 
 You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). However, get it going quickly, see the topics in this Quick Start Guide.
+
+
+![Alt text](C:\Users\19788\Documents\GitHub\ownit-quick\Graphics\logo.jpg)  
   
 1. step 1  
 2. step 2 use &lt;variable&gt;  
