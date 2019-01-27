@@ -11,7 +11,7 @@ To get going quickly, see the topics in this ***Quick Start Guide***.  This guid
 
 ## Find More Help ##
 You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon.  
-![docs](Graphics\docs.JPG)
+![documentation](Graphics\docs.JPG)
 
 <h2 id="admin">Initial Setup</h2>
 
@@ -21,8 +21,7 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 - 
 <h2 id="install">Install and Configure</h2>
 
-To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment
-A very simple method so you can experiment in a test environment.  Take advantage a complete image in one package.
+To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment.  Take advantage a complete image in one package.  ![documentation](Graphics\docker.JPG)
 
 Here is an example 
 
