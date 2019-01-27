@@ -61,10 +61,10 @@ For more detail, [see the ownCloud documentation](https://doc.owncloud.org/serve
 <h2 id="user">ownCloud User Access</h2>  
 
 <h3 id="desktop">Desktop</h3>
-For more detail, see the [ownCloud documentation](https://doc.owncloud.org/desktop/2.5/introduction.html)
+For more detail, see [this topic](https://doc.owncloud.org/desktop/2.5/introduction.html) in the ownCloud documentation.
 <h3 id="desktop">Desktop</h3>
 ![mobile](Graphics\mobile-device.JPG)  
 To gain access
-For more detail, see the [ownCloud documentation](https://owncloud.org/download/#owncloud-mobile-apps)
+For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the ownCloud documentation.
 # ownCloud Credits #
 All content references to ownCloud terminology and images from ownCloud documentation are either trademarks or registered trademarks or ownCloud.
