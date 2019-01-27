@@ -18,7 +18,7 @@ You can find full details on working with **ownCloud** in the [OwnCloud document
 To make **ownCloud** available to users, you perform these procedures:
 - <a href="#install">Install and Configure</a> an ownCloud server.  
 - <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
-- <a href="#account">Add a user account.</a>.  
+- <a href="#account">Add User Accounts.</a>.  
 
 <h3 id="install">Install and Configure an ownCloud Server</h3>
 
@@ -49,11 +49,11 @@ Here is an example
     # Build and start the container
     docker-compose up -d
 
-<h3 id="connect">Enable users to Connect to the ownCloud Server</h3>  
+<h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
 Enable users to connect to the Owncloud server using the  server's IP address and port 8080
 
 
-<h3 id="account">Add a User Account</h3>  
+<h3 id="account">Add User Accounts</h3>  
 
 For more detail, [see the ownCloud documentation](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user)
 
@@ -63,7 +63,7 @@ For more detail, [see the ownCloud documentation](https://doc.owncloud.org/serve
 For more detail, see [this topic](https://doc.owncloud.org/desktop/2.5/introduction.html) in the ownCloud documentation.
 <h3 id="desktop">Desktop</h3>
 ![mobile](Graphics\mobile-device.JPG)  
-To gain access
+
 For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the ownCloud documentation.
 # ownCloud Credits #
-All content references to ownCloud terminology and images from ownCloud documentation are either trademarks or registered trademarks or ownCloud.
+All references to ownCloud are either trademarks or registered trademarks of ownCloud GmbH. Also ownCloud images are copyright protected by ownCloud GmbH.
