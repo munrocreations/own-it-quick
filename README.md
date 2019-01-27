@@ -6,7 +6,7 @@ Administering and use **ownCloud** may seem complex at first, but over 25 millio
 To get going quickly, see the topics in this ***Quick Start Guide***.  This guide answers these questions for two audiences:  
 
 - To install and configure **ownCloud**, see the <a href="#admin">Installation and Configuration</a> section.  
-- To connect to **ownCloud** from a desktop system or mobile device see the <a href="#user">ownCloud Access<</a> section.  
+- To connect to **ownCloud** from a desktop system or mobile device see the <a href="#user">ownCloud Access</a> section.  
 > **Note**: If you are reading this guide on a smart phone, you may prefer to turn the phone to a horizontal position.
 
 ## Find More Help ##
