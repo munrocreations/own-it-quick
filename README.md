@@ -24,6 +24,8 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment and take advantage a complete image in one package.  
 ![docker](Graphics\docker-image.jpg)
 
+[docker ownCloud image](https://hub.docker.com/r/owncloud/server/)
+
 Here is an example 
 
     # Create a new project directory
