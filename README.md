@@ -85,6 +85,8 @@ Finally locate the Send email to new user in the lower left sidebar of the contr
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
+When a user requires access to ownCloud, you add a user account as describe in the preceding procedure.  
+
 Enable users to connect to the Owncloud server using the server's IP address and port 8080
 
 Provide each user with a user account name.
