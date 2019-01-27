@@ -18,13 +18,15 @@ See [this topic](/heading1/)
 
 See this
 
-![ownCloud logo](\Graphics\mobile.png)  
+![Alt text](\Graphics\mobile.png)  
 
-Change
+![Alt text](mobile.png)  
+
+ChangeA
 
 No slash
 
-![ownCloud logo](Graphics\mobile.png)  
+![Alt text](Graphics\mobile.png)  
 
 LOGO
 
