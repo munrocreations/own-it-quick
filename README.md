@@ -4,7 +4,7 @@ see <a href="#mobile">Mobile</a>
 
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. This product runs on standard databases and operating systems such as Red Hat Enterprise Linux.
 
-You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon. 
+You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon.  
 ![docs](Graphics\docs.JPG)
 
 However, get it going quickly, see the topics in this Quick Start Guide.  For administrators this guide answers these questions
