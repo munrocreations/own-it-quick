@@ -21,7 +21,7 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 
 <h2 id="install">Install and Configure</h2>
 
-To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment.  Take advantage a complete image in one package.  ![documentation](Graphics\docker-image.JPG)
+To streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment and take advantage a complete image in one package.  ![documentation](Graphics\docker-image.JPG)
 
 Here is an example 
 
