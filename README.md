@@ -78,9 +78,9 @@ Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscor
 1. Click Create  
 ![create user](Graphics\create-user.jpg)
 
-After creating the user, you can fill in the Full Name of the user if that name differs from the login name. You can also ask the user to complete the Full Name.
+After creating the user, you can fill in the Full Name of the user if it differs from the login name. You can instead ask the user to complete the Full Name.
 
-If you checked Send email to new user (in the control panel on the lower left sidebar), you may also enter the new user’s email address. ownCloud sends that user a notification with their new login information. 
+Finally locate the Send email to new user in the lower left sidebar of the control panel. Check this option and enter the new user’s email address. ownCloud notifies that user with the details needed for first login. 
 
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
 
