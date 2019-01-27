@@ -16,9 +16,9 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 <h2 id="admin">Administrator Setup</h2>
 
 For the initial setup of ownCloud, you perform three important procedures
-- <a href="#install>Install and Configure</a> an ownCloud server.  
-- <a href="#connect>Enable Users to Connect</a> to the ownCloud server.  
-- <a href="#account>add a user account</a>.  
+- <a href="#install">Install and Configure</a> an ownCloud server.  
+- <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
+- <a href="#account">add a user account</a>.  
 
 <h3 id="install">Install and Configure an ownCloud Server</h3>
 
@@ -59,10 +59,12 @@ Enable users to connect to the Owncloud server using the  server's IP address an
 For more detail, [see the ownCloud documentation](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user)
 
 <h2 id="user">ownCloud User Access</h2>  
-More info  ![mobile](Graphics\mobile-device.JPG)  
-To gain access
 
 <h3 id="desktop">Desktop</h3>
-For more detail, [see the ownCloud documentation](https://doc.owncloud.org/desktop/2.5/introduction.html)
-
+For more detail, see the [ownCloud documentation](https://doc.owncloud.org/desktop/2.5/introduction.html)
+<h3 id="desktop">Desktop</h3>
+![mobile](Graphics\mobile-device.JPG)  
+To gain access
+For more detail, see the [ownCloud documentation](https://owncloud.org/download/#owncloud-mobile-apps)
 # ownCloud Credits #
+All content references to ownCloud terminology and images from ownCloud documentation are either trademarks or registered trademarks or ownCloud.
