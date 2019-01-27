@@ -49,14 +49,16 @@ Here is an example
     # Build and start the container
     docker-compose up -d
 
+For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.htm) in the ownCloud documentation.
+
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
 Enable users to connect to the Owncloud server using the  server's IP address and port 8080
 
 
 <h3 id="account">Add User Accounts</h3>  
 
-For more detail, [see the ownCloud documentation](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user)
-
+For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
+.
 <h2 id="user">ownCloud User Access</h2>  
 
 <h3 id="desktop">Desktop</h3>
