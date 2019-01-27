@@ -8,7 +8,9 @@ However, get it going quickly, see the topics in this Quick Start Guide.
 
 See this graphic about the docs ![docs](Graphics\docs.JPG)
 
-   
+See [this topic](/heading1/)
+
+# heading1 #   
 
 ### installing ownCloud ##
 
