@@ -1,6 +1,6 @@
 # How to Manage and Use **ownCloud** #
 
-Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform.  This product runs on standard databases, web servers, and enterprise operating systems such as Red Hat Enterprise Linux. 
+Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. You can access your data where you are and know that is on a highly secure platform. This product runs on standard databases, web servers, and enterprise operating systems such as Red Hat Enterprise Linux. 
 
 ## Get Started ##  
 To get going quickly, see the topics in this ***Quick Start Guide***.  This guide answers these questions for two audiences:  
