@@ -17,4 +17,4 @@ See this graphic
 
 ## Enable Access to ownCloud on Mobile ##  
 
-More info  ![mobile](Graphics\mobile.png)   
+More info  ![mobile](Graphics\mobile-device.JPG)   
