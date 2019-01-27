@@ -10,15 +10,15 @@ To streamline your use of this product, the ***Quick Start Guide***  answers que
 > **Note**: For optimal use of this guide on a smart phone, turn the phone horizontally (landscape mode).
 
 ## Find More Help ##
-You can find full details on working with **ownCloud** in the [OwnCloud documentation](https://owncloud.org/help/). Look for this documentation icon.  
+You can find full details on working with **ownCloud** in the [OwnCloud documentation](https://owncloud.org/help/). Look for this icon.  
 ![documentation](Graphics\docs.JPG)
 
 <h2 id="admin">Administrator Setup</h2>
 
 To make **ownCloud** available to users, you perform these procedures:
 - <a href="#install">Install</a> an ownCloud server.  
+- <a href="#account">Add User Accounts</a>.
 - <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
-- <a href="#account">Add User Accounts</a>.  
 
 <h3 id="install">Install an ownCloud Server</h3>
 
@@ -34,7 +34,6 @@ Next, create an ENV configuration file and assign values to the following settin
 ![settings](Graphics\settings.jpg)
 
 After assigning these values, start the container at the Docker command-line. This sequence shows starting the container using [Docker Compose](https://hub.docker.com/r/owncloud/server/).  If you prefer, you can use [plain docker](https://github.com/owncloud-docker/server#launch-with-plain-docker).
-
 
     # Create a new project directory
     mkdir owncloud-docker-server
@@ -60,7 +59,7 @@ When the process completes, verify that all containers started by running: docke
 
 ![docker](Graphics\docker-out.jpg)
 
-In this example, notice that lines one and three show the database, ownCloud, and Redis containers are running. Also, the second line shows that ownCloud can be accessed by port 8080 on the local system.
+In this example, notice that the database, ownCloud, and Redis containers are running. Also, the second line shows that ownCloud can be accessed by port 8080 on the local system.
 
 The final step is run the following command:  docker-compose logs --follow owncloud  
 If you see many messages being logged to the console, please wait until the messages slow down. Then you can log into the ownCloud UI to verify a successful installation.
@@ -70,14 +69,15 @@ To log in to the ownCloud UI, open http://localhost in a web browser as shown he
 ![ui](Graphics\ui.jpg)
 For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
 
-<h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
-Enable users to connect to the Owncloud server using the  server's IP address and port 8080
-
-
 <h3 id="account">Add User Accounts</h3>  
 
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
-.
+
+<h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
+Enable users to connect to the Owncloud server using the server's IP address and port 8080
+
+Provide each user with a user account name.
+
 <h2 id="user">ownCloud User Access</h2>  
 
 <h3 id="desktop">Desktop</h3>
