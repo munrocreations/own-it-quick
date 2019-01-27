@@ -7,7 +7,7 @@ To get going quickly, see the topics in this ***Quick Start Guide***.  This guid
 
 - For administrators, see the <a href="#admin">Initial Setup</a> section so you can make **ownCloud** available to users.  
 - For users, see the <a href="#user">ownCloud Access</a> section to connect to **ownCloud** from a desktop system or mobile device .  
-> **Note**: If you are reading this guide on a smart phone, you may prefer to turn the phone to a horizontal position.
+> **Note**: If you are reading this guide on a smart phone, you may choose to turn the phone horizontally for best viewing.
 
 ## Find More Help ##
 You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). Look for the documentation icon.  
