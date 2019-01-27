@@ -97,6 +97,20 @@ Therefore, users supply the web URL in this format: https://&lt;host-name&rt;:80
 <h2 id="user">ownCloud User Access</h2>  
 
 <h3 id="desktop">Desktop</h3>
+
+You can download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page. There are clients for Linux, macOS, and Microsoft Windows.
+
+<h4 id="Mac OS X and Windows</h4>
+
+On Mac OS X and Windows: download the program and then double-click it to launch the installation, and then follow the installation wizard. After it is installed and configured the sync client will automatically stays updated; see The Automatic Updater for more information.
+
+<h4 id="Mac OS X and Windows</h4>
+Linux users must follow the instructions on the download page to add the appropriate repository for their Linux distribution, install the signing key, and then use their package managers to install the desktop sync client. Linux users should also update their sync clients using the package manager. The client displays a notification when an update is available.
+
+Linux users must also have a password manager enabled, such as GNOME Keyring or KWallet, so that the sync client can login automatically.
+
+You will also find links to source code archives and older versions on the download page
+
 For more detail, see [this topic](https://doc.owncloud.org/desktop/2.5/introduction.html) in the ownCloud documentation.
 <h3 id="mobile">Mobile</h3>
 ![mobile](Graphics\mobile-device.JPG)  
