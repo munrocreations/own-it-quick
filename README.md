@@ -66,10 +66,21 @@ If you see many messages being logged to the console, please wait until the mess
 
 #### Log into the ownCloud UI  ####
 To log in to the ownCloud UI, open http://localhost in a web browser as shown here. Enter the admin username and password that you stored in ENV file.  
-![ui](Graphics\ui.jpg)
+![ui](Graphics\ui.jpg)  
 For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
 
 <h3 id="account">Add User Accounts</h3>  
+Perform these steps to create a user.  
+
+1. Enter a Login Name and a password for the new user.   
+Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.) and at signs (@).
+1. Assign Groups memberships if needed
+1. Click Create  
+![create user](Graphics\create-user.jpg)
+
+After creating the user, you can fill in the Full Name of the user if that name differs from the login name. You can also ask the user to complete the Full Name.
+
+If you checked Send email to new user (in the control panel on the lower left sidebar), you may also enter the new user’s email address. ownCloud sends that user a notification with their new login information. 
 
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
 
@@ -82,7 +93,7 @@ Provide each user with a user account name.
 
 <h3 id="desktop">Desktop</h3>
 For more detail, see [this topic](https://doc.owncloud.org/desktop/2.5/introduction.html) in the ownCloud documentation.
-<h3 id="desktop">Desktop</h3>
+<h3 id="mobile">Mobile</h3>
 ![mobile](Graphics\mobile-device.JPG)  
 
 For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the ownCloud documentation.
