@@ -6,7 +6,7 @@
 
 ![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\mobile.png)
 
-![ownCloud logo](Graphics/mobile.png)  
+![ownCloud logo](Graphics\mobile.png)  
  
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform.
 
