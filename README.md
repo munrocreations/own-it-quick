@@ -2,9 +2,12 @@
 
 ## Enable Access to ownCloud ##
 
+See ![Alt text](\Graphics\doc.png) 
+
 ## no relative path  ##
 
 ![Alt text](\Graphics\mobile.png "Mobile access")   
+
 
 
 See [admin](admin)  
@@ -20,8 +23,11 @@ LOGO
 
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform.
 
-You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). However, get it going quickly, see the topics in this Quick Start Guide.
+You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). 
 
+However, get it going quickly, see the topics in this Quick Start Guide.
+
+See ![Alt text](\Graphics\doc.png) 
 
 ![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\logo.jpg)  
   
