@@ -85,11 +85,14 @@ Finally locate the Send email to new user in the lower left sidebar of the contr
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
-When a user requires access to ownCloud, you add a user account as describe in the preceding procedure.  
+When a user requires access to ownCloud, you add a user account as described in the preceding procedure. The user receives and email with the required login details. 
 
-Enable users to connect to the Owncloud server using the server's IP address and port 8080
+In addition, you may need to provide the server's IP address and port. 
 
-Provide each user with a user account name.
+- The server name is name of the system where you installed the ownCloud server using a docker image.  
+-  The port number is 8080.
+
+Therefore, users supply the web URL in this format: https://&lt;host-name&rt;:8080
 
 <h2 id="user">ownCloud User Access</h2>  
 
