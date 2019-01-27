@@ -2,11 +2,7 @@
 
 ## Enable Access to ownCloud ##
 
-![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\logo.jpg)
 
-![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\mobile.png)
-
-![ownCloud logo](Graphics\mobile.png)  
  
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform.
 
@@ -17,7 +13,24 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 
 See [this topic](/heading1/)
 
+See this
+
+![ownCloud logo](\Graphics\mobile.png)  
+
 Change
+
+No slash
+
+![ownCloud logo](Graphics\mobile.png)  
+
+LOGO
+
+
+![Alt text](C:\Users\19788\Documents\GitHub\own-it-quick\Graphics\logo.jpg)
+
+Relative
+
+![Alt text](\Graphics\mobile.png)
 
 # heading1 #
 1. step 1  
