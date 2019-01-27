@@ -10,7 +10,7 @@ However, get it going quickly, see the topics in this Quick Start Guide.
 
 See this graphic  
 
-![Alt text](Graphics\mobile.png)  
+![Alt text](Graphics\logo.jpg)    
   
 
 
