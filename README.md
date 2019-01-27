@@ -1,12 +1,10 @@
 # How to Manage and Use **ownCloud** #
 
-lll
+## Enable Access to ownCloud ##
 
-Updates motr  owncloue2
 
-![ownCloud logo](Graphics\logo.jpg)  
-MOREa
-
+![ownCloud logo](Graphics\mobile.png)  
+ 
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform.
 
 You can find full details on working with **ownCloud** here: [https://owncloud.org/help/](https://owncloud.org/help/ "OwnCloud help"). However, get it going quickly, see the topics in this Quick Start Guide.
