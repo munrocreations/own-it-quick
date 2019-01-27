@@ -64,14 +64,13 @@ When the process completes, verify that all containers started by running docker
 
 In this example, notice that in lines one and three show the database, ownCloud, and Redis containers are running. Also, the sedond line shows that ownCloud can be accessed by port 8080 on your local system.
 
-For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
-
 The final step is run the following command:  
     docker-compose logs --follow owncloud 
 If see many messages being logged to the console, please wait until the messages slow down. Then you can log into the ownCloud UI to verify a successful installation.
 #### Log into the ownCloud UI  ####
 To log in to the ownCloud UI, open http://localhost in a web browser of choice. See the following example. Enter admin username and password that you stored in ENV file.  
 ![ui](Graphics\ui.jpg)
+For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
 Enable users to connect to the Owncloud server using the  server's IP address and port 8080
