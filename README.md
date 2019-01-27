@@ -13,5 +13,6 @@ See this graphic
 ![logo](Graphics\logo.jpg)    
   
 
+![logo](Graphics\mobile.png)  
 
 ## Enable Access to ownCloud ##
