@@ -4,7 +4,7 @@ lll
 
 Updates motr  owncloue2
 
-![Alt text](Graphics\logo.jpg)
+![Alt text](Graphics\logo.jpg)  
 MOREa
 
 Administering and use **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collabaration platform.
