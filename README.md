@@ -6,6 +6,10 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 
 However, get it going quickly, see the topics in this Quick Start Guide.
 
+See this graphic about the docs 
+
+![docs](Graphics\docs.JPG)   
+
 ### installing ownCloud ##
 
 See this graphic  
@@ -13,6 +17,6 @@ See this graphic
 ![logo](Graphics\logo.jpg)    
   
 
-![logo](Graphics\mobile.png)  
+## Enable Access to ownCloud ##  
 
-## Enable Access to ownCloud ##
+More info
