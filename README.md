@@ -6,6 +6,12 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 
 However, get it going quickly, see the topics in this Quick Start Guide.
 
-### installing ownCloud ###
+### installing ownCloud ##
+
+See this graphic  
+
+![Alt text](Graphics\mobile.png)  
+  
+
 
 ## Enable Access to ownCloud ##
