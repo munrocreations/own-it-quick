@@ -15,13 +15,15 @@ You can find full details on working with **ownCloud** here: [https://owncloud.o
 
 <h2 id="admin">Administrator Setup</h2>
 
-- install and configure an ownCloud server
-- enable users to connect to the ownCloud server   
-- add a user account  
+For the initial setup of ownCloud, you perform three important procedures
+- <a href="#install>Install and Configure</a> an ownCloud server.  
+- <a href="#connect>Enable Users to Connect</a> to the ownCloud server.  
+- <a href="#account>add a user account</a>.  
 
-<h3 id="install">Install and Configure</h3>
+<h3 id="install">Install and Configure an ownCloud Server</h3>
 
-To perform a quick installation of the ownCloud Server streamline the installation process, consider installing the docker version.  This version provide the chance to experiment in a test environment and take full advantage of the product.  For information about docker  
+To quickly installation and configure the ownCloud Server, consider installing the docker version. The docker version provide the chance to experiment in a test environment to if it fits the needs of your organization.  
+ For information about docker  
 
 Start by downloading the [ownCloud server image](https://hub.docker.com/r/owncloud/server/) to your local system.
 ![docker](Graphics\docker-image.jpg)
@@ -49,11 +51,18 @@ Here is an example
     docker-compose up -d
 
 <h3 id="connect">Enable users to Connect to the ownCloud Server</h3>  
+Enable users to connect to the Owncloud server using the  server's IP address and port 8080
 
-enable users to connect to the ownCloud server   
+
 <h3 id="account">Add a User Account</h3>  
+
+For more detail, [see the ownCloud documentation](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user)
+
 <h2 id="user">ownCloud User Access</h2>  
 More info  ![mobile](Graphics\mobile-device.JPG)  
 To gain access
 
 <h3 id="desktop">Desktop</h3>
+For more detail, [see the ownCloud documentation](https://doc.owncloud.org/desktop/2.5/introduction.html)
+
+# ownCloud Credits #
