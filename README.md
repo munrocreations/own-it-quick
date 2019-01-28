@@ -117,7 +117,7 @@ You can download the latest version of the **ownCloud** Desktop Synchronization 
 On Mac OS X and Microsoft Windows, download the program and double-click it to launch the installation. After the installation wizard completes, the sync client automatically stays updated.
 
 <h4>Linux</h4>
-On a Linux system, follow the instructions on the download page to add the appropriate repository and install the signing key. Then use your package managers to install the desktop sync client   and update your sync clients. The client displays a notification when an update is available.
+On a Linux system, follow the instructions on the download page to add the appropriate repository and install the signing key. Then use your package manager to install the desktop sync client   and update your sync clients. The client displays a notification when an update is available.
 
 You must also have a password manager enabled, such as GNOME Keyring or KWallet, so that the sync client can login automatically. You will find links to source code archives and older versions on the download page.
 
@@ -126,11 +126,10 @@ For more detail, see [this topic](https://doc.owncloud.org/desktop/2.5/introduct
 
 Mobile apps are available in both the Apple App Store and the Google Play Store for these releases:
 
-- Latest releases (Sep 6, 2018):
 - iOS: Version 3.8.0
 - Android: Version 2.9.3  
 ![mobile](Graphics\mobile-device.JPG)  
 
-For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the ownCloud documentation.
+For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the **ownCloud** documentation.
 # ownCloud Credits #
-All references to ownCloud are either trademarks or registered trademarks of ownCloud GmbH. Also ownCloud images are copyright protected by ownCloud GmbH.
+All references to **ownCloud** are either trademarks or registered trademarks of **ownCloud** GmbH. Also **ownCloud** images are copyright protected by **ownCloud** GmbH.
