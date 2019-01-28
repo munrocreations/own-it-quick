@@ -92,8 +92,6 @@ When a user needs to connect to **ownCloud**, you add a user account as describe
 - The server name is name of the system where you installed the **ownCloud** server using a docker image.  
 -  The port number is 8080.
 
-Therefore, users would supply the web URL in this format: `https://&lt;host-name&gt;:8080`
-
 <h2 id="user">User Access</h2>  
 
 You can access **ownCloud** from a <a href="#desktop">desktop system</a> or a <a href="#mobile">mobile device</a>.
@@ -115,7 +113,7 @@ The **ownCloud** Desktop Sync client enables you to select directories on your c
 On Mac OS X and Microsoft Windows, download the program and double-click it to launch the installation. After the installation wizard completes, the sync client automatically stays updated.
 
 <h4>Linux</h4>
-On a Linux system, follow the instructions on the download page to add the appropriate repository and install the signing key. Then use your package manager to install the desktop sync client   You also use the package manager to update the sync client when the client displays a message that an update is available.
+On a Linux system, follow the instructions on the download page to add the appropriate repository and install the signing key. Then use your package manager to install the desktop sync client. You also use the package manager to update the sync client when the client displays a message that an update is available.
 
 You must also have a password manager enabled, such as GNOME Keyring or KWallet, so that the sync client can login automatically. You will find links to source code archives and older versions on the download page.
 
