@@ -100,9 +100,9 @@ Therefore, users would supply the web URL in this format: `https://&lt;host-name
 
 You can access **ownCloud** from a <a href="#desktop">desktop system</a> or a <a href="#mobile">mobile device</a>.
 
-<h3 id="desktop">Desktop</h3>
+<h3 id="desktop">Desktop System</h3>
 
-The ownCloud Desktop Sync client enables you to select directories on your computer that synchronize to the **ownCloud** server. You can download the latest version of the **ownCloud** Desktop Synchronization Client from the **ownCloud** download page. The system requirements are:  
+The **ownCloud** Desktop Sync client enables you to select directories on your computer that synchronize to the **ownCloud** server. You can download the latest version of the **ownCloud** Desktop Synchronization Client from the **ownCloud** download page. The system requirements are:  
 - Windows 7+
 - Mac OS X 10.7+ (64-bit only)
 - CentOS 6 & 7 (64-bit only)
