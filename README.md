@@ -74,7 +74,7 @@ To log in to the **ownCloud** UI, open http://localhost in a web browser and ent
 For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the **ownCloud** documentation.
 
 <h3 id="account">Add User Accounts</h3>  
-Perform these steps to create a user.  
+Perform these steps to add a user account.  
 
 1. Enter a Login Name and password for the new user.   
 Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.) and at signs (@).
@@ -82,19 +82,19 @@ Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscor
 1. Click Create.  
 ![create user](Graphics\create-user.jpg)
 
-After creating the user, fill in the Full Name of the user if it differs from the login name. You could also ask the user to complete the Full Name.
+After adding the user, fill in the Full Name of the user if it differs from the login name. You could also ask the user to complete the Full Name.
 
 Finally check *Send email to new user* in the lower left sidebar of the control panel and enter the new user’s email address. **ownCloud** sends an email to provide that user with the login details. 
 
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the **ownCloud** documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
-When a user needs to connect to **ownCloud** access, you add a user account as described in the preceding procedure. The user receives an email with the required login details. If necessary for that connection, you can provide the ownCloud server's IP address and port. 
+When a user needs to connect to **ownCloud** access, you add a user account as described in the previous procedure. The user receives an email with the required login details. If requested, you can provide the **ownCloud ** server's IP address and port. 
 
 - The server name is name of the system where you installed the **ownCloud** server using a docker image.  
 -  The port number is 8080.
 
-Therefore, users supply the web URL in this format:  
+Therefore, users would supply the web URL in this format:  
     https://&lt;host-name&gt;:8080
 
 <h2 id="user">ownCloud User Access</h2>  
