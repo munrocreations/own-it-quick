@@ -15,7 +15,7 @@ You can find full details on working with **ownCloud** in the [OwnCloud document
 <h2 id="admin">Administrator Setup</h2>
 
 To make **ownCloud** available to users, you perform these procedures:
-- <a href="#install">Install</a> an ownCloud server.  
+- <a href="#install">Install</a> an **ownCloud** server.  
 - <a href="#account">Add User Accounts</a>.
 - <a href="#connect">Enable Users to Connect</a> to the **ownCloud** server.  
 
