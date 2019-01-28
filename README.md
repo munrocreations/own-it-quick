@@ -66,8 +66,8 @@ Finally, run the following command:
 
 If you see many messages being logged to the console, wait until the messages slow down. Then log into the **ownCloud** UI to verify a successful installation.
 
-#### Log into the ownCloud UI  ####
-To log in to the **ownCloud** UI, open http://localhost in a web browser as shown here. Enter the admin username and password that you stored in ENV file.  
+#### Log in to the ownCloud UI  ####
+To log in to the **ownCloud** UI, open http://localhost in a web browser and enter the admin username and password that you stored in ENV file.  
 ![ui](Graphics\ui.jpg)  
 For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
 
