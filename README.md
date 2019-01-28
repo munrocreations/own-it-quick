@@ -67,7 +67,7 @@ Finally, run the following command:
 If you see many messages being logged to the console, wait until the messages slow down. Then log into the **ownCloud** UI to verify a successful installation.
 
 #### Log in to the ownCloud UI  ####
-To log in to the **ownCloud** UI, open http://localhost in a web browser and enter the admin username and password that you stored in ENV file.  
+To log in to the **ownCloud** UI, open http://localhost in a web browser and enter the admin username and password that you stored in the ENV file.  
 ![ui](Graphics\ui.jpg)  
 For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
 
@@ -76,13 +76,13 @@ Perform these steps to create a user.
 
 1. Enter a Login Name and password for the new user.   
 Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.) and at signs (@).
-1. Assign Groups memberships if needed
-1. Click Create  
+1. Assign Groups memberships if needed.
+1. Click Create.  
 ![create user](Graphics\create-user.jpg)
 
 After creating the user, fill in the Full Name of the user if it differs from the login name. You could also ask the user to complete the Full Name.
 
-Finally check *Send email to new user* in the lower left sidebar of the control panel and enter the new user’s email address. **ownCloud** sends an email to notify that user about the details needed to log in. 
+Finally check *Send email to new user* in the lower left sidebar of the control panel and enter the new user’s email address. **ownCloud** sends an email to provide that user with the login details. 
 
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
 
