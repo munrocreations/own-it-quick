@@ -58,21 +58,20 @@ After assigning these values, start the container at the Docker command-line. Th
     # Build and start the container
     docker-compose up -d
 
-When the process completes, verify that all containers started.  Run: docker-compose ps. Look for output similar to this example to confirm success. 
+When the process completes, verify that all containers started.  Run: `docker-compose ps`. Look for output similar to this example to confirm success. 
 
 ![docker](Graphics\docker-out.jpg)
 
 In this example, notice that the database, **ownCloud**, and Redis containers are running. Also, the second line shows that **ownCloud** can be accessed by port 8080 on the local system.
 
-Finally, run the following command:  
-    docker-compose logs --follow owncloud  
+Finally, run the following command:  `docker-compose logs --follow owncloud`  
 
-If you see many messages being logged to the console, wait until the messages slow down. Then log into the **ownCloud** UI to verify a successful installation.
+If you see many messages being logged to the console, wait until the messages slow down. Then log in to the **ownCloud** UI to verify a successful installation.
 
 #### Log in to the ownCloud UI  ####
 To log in to the **ownCloud** UI, open http://localhost in a web browser and enter the admin username and password that you stored in the ENV file.  
 ![ui](Graphics\ui.jpg)  
-For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the ownCloud documentation.
+For more detail on the installation using docker, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/installation/docker/index.html?highlight=docker) in the **ownCloud** documentation.
 
 <h3 id="account">Add User Accounts</h3>  
 Perform these steps to create a user.  
