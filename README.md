@@ -17,11 +17,11 @@ You can find full details on working with **ownCloud** in the [OwnCloud document
 To make **ownCloud** available to users, you perform these procedures:
 - <a href="#install">Install</a> an ownCloud server.  
 - <a href="#account">Add User Accounts</a>.
-- <a href="#connect">Enable Users to Connect</a> to the ownCloud server.  
+- <a href="#connect">Enable Users to Connect</a> to the **ownCloud** server.  
 
 <h3 id="install">Install an ownCloud Server</h3>
 
-If you are comfortable using docker, consider installing the docker version of the **ownCloud** Server. This version is the fastest installation option. You may want to install it in a test environment to verify that it fits your organizational needs.  
+Consider installing the docker version of the **ownCloud** Server for the fastest installation. You may want to install it in a test environment to verify that it fits your organizational needs.  
 
 The docker image has a data volume in the host file system and separate MariaDB and Redis containers. This configuration allows for HTTP connections by exposing port 8080. It also provides persistent storage by mounting the data and MySQL data directories on the host.
 
