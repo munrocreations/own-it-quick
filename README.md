@@ -1,6 +1,6 @@
 #  Administer and Use **ownCloud**<br>(A Quick Start Guide) #
 
-With **ownCloud**, you can access your data from any location and know that is on a highly secure platform. This product runs on standard databases and web servers plus reliable enterprise operating systems such as Red Hat Enterprise Linux. Administering and using **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. 
+With **ownCloud**, you can access your data from any location and know that it is on a highly secure platform. This product runs on standard databases and web servers plus reliable enterprise operating systems such as Red Hat Enterprise Linux. Administering and using **ownCloud** may seem complex at first, but over 25 million users succeed in working with this open source content collaboration platform. 
 
 ## Get Started ##  
 To streamline your use of this product, the ***Quick Start Guide*** answers questions for two audiences:  
