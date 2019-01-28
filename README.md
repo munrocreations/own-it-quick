@@ -36,7 +36,7 @@ Next, create an ENV configuration file and assign values to the following variab
   
 ![settings](Graphics\settings.jpg)
 
-After assigning these values, start the container at the Docker command-line. This sequence shows starting the container using [Docker Compose](https://hub.docker.com/r/owncloud/server/).  If you prefer, you can use [plain docker](https://github.com/owncloud-docker/server#launch-with-plain-docker).
+After assigning these values, start the container at the Docker command-line. This sequence shows starting the container using [Docker Compose](https://github.com/owncloud-docker/server).  If you prefer, you can use [plain docker](https://github.com/owncloud-docker/server#launch-with-plain-docker).
 
     # Create a new project directory
     mkdir owncloud-docker-server
@@ -82,21 +82,19 @@ Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscor
 1. Click Create.  
 ![create user](Graphics\create-user.jpg)
 
-After adding the user, fill in the Full Name of the user if it differs from the login name. You could also ask the user to complete the Full Name.
-
-Finally check *Send email to new user* in the lower left sidebar of the control panel and enter the new user’s email address. **ownCloud** sends an email to provide that user with the login details. 
+After adding the user, fill in the Full Name of the user if it differs from the login name. Finally check *Send email to new user* in the lower left sidebar of the control panel and enter the new user’s email address. **ownCloud** emails that user with the login details. 
 
 For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the **ownCloud** documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
-When a user needs to connect to **ownCloud** access, you add a user account as described in the previous procedure. The user receives an email with the required login details. If requested, you can provide the **ownCloud ** server's IP address and port. 
+When a user needs to connect to **ownCloud**, you add a user account as described in the previous procedure. The user receives an email with the required login details. If requested, you can provide the **ownCloud** server's IP address and port. 
 
 - The server name is name of the system where you installed the **ownCloud** server using a docker image.  
 -  The port number is 8080.
 
 Therefore, users would supply the web URL in this format: `https://&lt;host-name&gt;:8080`
 
-<h2 id="user">ownCloud User Access</h2>  
+<h2 id="user">User Access</h2>  
 
 You can access **ownCloud** from a <a href="#desktop">desktop system</a> or a <a href="#mobile">mobile device</a>.
 
@@ -117,7 +115,7 @@ The **ownCloud** Desktop Sync client enables you to select directories on your c
 On Mac OS X and Microsoft Windows, download the program and double-click it to launch the installation. After the installation wizard completes, the sync client automatically stays updated.
 
 <h4>Linux</h4>
-On a Linux system, follow the instructions on the download page to add the appropriate repository and install the signing key. Then use your package manager to install the desktop sync client   and update the sync client. The client displays a notification when an update is available.
+On a Linux system, follow the instructions on the download page to add the appropriate repository and install the signing key. Then use your package manager to install the desktop sync client   You also use the package manager to update the sync client when the client displays a message that an update is available.
 
 You must also have a password manager enabled, such as GNOME Keyring or KWallet, so that the sync client can login automatically. You will find links to source code archives and older versions on the download page.
 
@@ -130,6 +128,6 @@ Mobile apps are available in both the Apple App Store and the Google Play Store 
 - Android: Version 2.9.3  
 ![mobile](Graphics\mobile-device.JPG)  
 
-For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) in the **ownCloud** documentation.
+For more detail, see [this topic](https://owncloud.org/download/#owncloud-mobile-apps) on the **ownCloud** web site.
 # ownCloud Credits #
 All references to **ownCloud** are either trademarks or registered trademarks of **ownCloud** GmbH. Also **ownCloud** images are copyright protected by **ownCloud** GmbH.
