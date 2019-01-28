@@ -6,7 +6,7 @@ With **ownCloud**, you can access your data from any location and know that it i
 To streamline your use of this product, the ***Quick Start Guide*** answers questions for two audiences:  
 
 - **Administrators** -- See the <a href="#admin">Administrator Setup</a> section to make **ownCloud** available to users.  
-- **Users** -- See the <a href="#user">User Access</a> section to connect to **ownCloud** from a desktop system or mobile device .
+- **Users** -- See the <a href="#user">User Access</a> section to connect to **ownCloud** from a desktop system or mobile device.
 
 ## Find More Help ##
 You can find full details on working with **ownCloud** in the [OwnCloud documentation](https://owncloud.org/help/). Look for this icon.  
