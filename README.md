@@ -92,7 +92,8 @@ In addition, you may need to provide the server's IP address and port.
 - The server name is name of the system where you installed the ownCloud server using a docker image.  
 -  The port number is 8080.
 
-Therefore, users supply the web URL in this format: https://&lt;host-name&rt;:8080
+Therefore, users supply the web URL in this format:  
+    https://&lt;host-name&gt;:8080
 
 <h2 id="user">ownCloud User Access</h2>  
 
