@@ -84,7 +84,7 @@ After creating the user, fill in the Full Name of the user if it differs from th
 
 Finally check *Send email to new user* in the lower left sidebar of the control panel and enter the new user’s email address. **ownCloud** sends an email to provide that user with the login details. 
 
-For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the ownCloud documentation.
+For more detail, see [this topic](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_configuration.html#creating-a-new-user) in the **ownCloud** documentation.
 
 <h3 id="connect">Enable Users to Connect to the ownCloud Server</h3>  
 When a user requires **ownCloud** access, you add a user account as described in the preceding procedure. The user receives an email with the required login details. 
